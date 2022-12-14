@@ -14,10 +14,10 @@ const About = (props) => {
     }, []);
 
     const loaded = () => (
-        <div>
-            <h2>{about.name}</h2>
-            <h3>{about.email}</h3>
-            <p>{about.bio}</p>
+        <div className="content">
+            <div><h2>{about.name}</h2></div>
+            <div><h3 style={{color:'#32dfa2'}}>{about.email}</h3></div>
+            <div><p>{about.bio}</p></div>
         </div>
     );
 
