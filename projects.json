@@ -2,8 +2,8 @@
     {
         "name": "TicTacToe / Lilo Tamagotchi",
         "live": [
-            "https://t-hoffman.github.io/project_0/tictactoe.html",
-            "https://t-hoffman.github.io/project_0/"
+            "https://thoffman.me/project_0/tictactoe.html",
+            "https://thoffman.me/project_0/"
         ],
         "git": "https://github.com/t-hoffman/project_0",
         "image": [
@@ -13,7 +13,7 @@
     {
         "name": "Game of Checkers",
         "live": [
-            "https://t-hoffman.github.io/Project_1_Checkers/"
+            "https://thoffman.me/Project_1_Checkers/"
         ],
         "git": "https://github.com/t-hoffman/Project_1_Checkers",
         "image": [
