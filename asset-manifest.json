@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a65ad56d.css",
-    "main.js": "/static/js/main.7d04f458.js",
+    "main.css": "/static/css/main.fade38e1.css",
+    "main.js": "/static/js/main.d801e9bc.js",
+    "static/media/beachcolor.png": "/static/media/beachcolor.0d73f2328ce5f8b79ba3.png",
+    "static/media/goldplay-medium.otf": "/static/media/goldplay-medium.6729a53248c160627f5d.otf",
+    "static/media/goldplay-semi-bold.otf": "/static/media/goldplay-semi-bold.43135116b4566e70ce42.otf",
+    "static/media/goldplay-regular.otf": "/static/media/goldplay-regular.a83bb954d016d96cac3d.otf",
+    "static/media/VisbyThin.woff": "/static/media/VisbyThin.317d6cd06a2556d327c8.woff",
     "index.html": "/index.html",
-    "main.a65ad56d.css.map": "/static/css/main.a65ad56d.css.map",
-    "main.7d04f458.js.map": "/static/js/main.7d04f458.js.map"
+    "main.fade38e1.css.map": "/static/css/main.fade38e1.css.map",
+    "main.d801e9bc.js.map": "/static/js/main.d801e9bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a65ad56d.css",
-    "static/js/main.7d04f458.js"
+    "static/css/main.fade38e1.css",
+    "static/js/main.d801e9bc.js"
   ]
 }
