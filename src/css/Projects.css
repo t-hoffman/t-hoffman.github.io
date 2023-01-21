@@ -1,0 +1,58 @@
+.smaller-h2 {
+  font-family: 'Goldplay';
+  text-transform: uppercase;
+  font-size: 22pt;
+  letter-spacing: 0;
+  text-shadow: none;
+  margin: 0 0 10px 0;
+}
+
+.projects {
+  display: flex;
+  width: 100%;
+  margin-bottom: 5em;
+}
+
+.left {
+  width: 70%;
+  text-align: right;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 20px 0 0 20px;
+}
+
+.right {
+  width: 30%;
+  text-align: center;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 0 20px 20px 0;
+}
+
+.images {
+  max-width: 100%;
+  display: flex;
+}
+
+.images img {
+  max-width: 100%;
+  height: auto;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  padding: 20px;
+  cursor: pointer;
+  border: 0px;
+  margin: 15px;
+  border-radius: 25px;
+  width: 150px;
+  background-color: #151B22;
+  color: white;
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: 'Playfair Display', sans-serif;
+}

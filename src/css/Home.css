@@ -1,0 +1,76 @@
+.main-cont {
+  display: flex;
+  width: 100%;
+  padding-top: 15vh;
+}
+
+.main-left {
+  width: 50%;
+  background-image: url('../assets/beachcolor.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 95%;
+}
+
+.main-right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.main-right h2, h3 { margin: 10px 0 0 0 }
+
+.main-name {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.main-text {
+  margin-top: 15px;
+  color: #818181;
+  text-align: right;
+  line-height: 1.5em;
+}
+
+.socials {
+  width: 100%;
+  margin-top: 7vh;
+  display: flex;
+  justify-content: center;
+}
+
+.socials a {
+  margin-right: 15px;
+  font-size: 18pt;
+  transition: transform 0.3s ease-in-out;
+}
+
+.socials a:hover {
+  transform: scale(1.5);
+}
+
+.github:hover { color: #2DA043 }
+.linked:hover { color: #0966C2 }
+.fb:hover { color: #1C74E4 }
+.ig:hover { color: #F3094E }
+.twitter:hover { color: #188CD8 }
+
+.construction {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.construction-box {
+  margin-top: 50px;
+  background-color: #fff;
+  width: fit-content;
+  padding: 15px;
+  border-radius: 50px;
+  border: 1px solid #efefef;
+  text-transform: uppercase;
+  opacity: 60%;
+  letter-spacing: 0.2em;
+}
