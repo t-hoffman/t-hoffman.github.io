@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aaf6784c.css",
-    "main.js": "/static/js/main.28fa3f8b.js",
+    "main.js": "/static/js/main.449f98a3.js",
     "static/media/roofbw.png": "/static/media/roofbw.1e1f67ab0f122f6f1f9a.png",
     "static/media/goldplay-medium.otf": "/static/media/goldplay-medium.6729a53248c160627f5d.otf",
     "static/media/goldplay-semi-bold.otf": "/static/media/goldplay-semi-bold.43135116b4566e70ce42.otf",
@@ -9,10 +9,10 @@
     "static/media/VisbyThin.woff": "/static/media/VisbyThin.317d6cd06a2556d327c8.woff",
     "index.html": "/index.html",
     "main.aaf6784c.css.map": "/static/css/main.aaf6784c.css.map",
-    "main.28fa3f8b.js.map": "/static/js/main.28fa3f8b.js.map"
+    "main.449f98a3.js.map": "/static/js/main.449f98a3.js.map"
   },
   "entrypoints": [
     "static/css/main.aaf6784c.css",
-    "static/js/main.28fa3f8b.js"
+    "static/js/main.449f98a3.js"
   ]
 }
