@@ -8,8 +8,8 @@ import Contact from 'Pages/Contact'
 import './css/index.css'
 
 export default function App() {
-  const location = window.location.origin.split('//')[1];
-  if (location === 'thoffman.me' || location === 'www.thoffman.me') window.location.href = 'https://t-hoffman.com'
+  // const location = window.location.origin.split('//')[1];
+  // if (location === 'thoffman.me' || location === 'www.thoffman.me') window.location.href = 'https://t-hoffman.com'
 
   return (
    <Layout>
