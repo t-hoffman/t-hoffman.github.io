@@ -11,7 +11,7 @@ export default function App() {
   // const location = window.location.origin.split('//')[1];
   // if (location === 'thoffman.me' || location === 'www.thoffman.me') window.location.href = 'https://t-hoffman.com'
 
-  return (
+  /* return (
    <Layout>
     <Routes>
       <Route path="/" element={<Home />} />
@@ -21,5 +21,7 @@ export default function App() {
       <Route path="/contactme" element={<Contact />} />
     </Routes>
    </Layout> 
-  )
+  )*/
+
+   return null;
 }
