@@ -22,6 +22,8 @@ export default function App() {
     </Routes>
    </Layout> 
   )*/
+ console.log('TEST')
+  throw new Error("TYLER HOFFMAN");
 
    return null;
 }
